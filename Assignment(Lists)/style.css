@@ -1,0 +1,31 @@
+:root{
+    --ff-primary:'Lexend Deca', sans-serif;
+    --clr-dark-blue:#1d3c45;
+    --clr-dark-orange:#d2601a;
+    --clr-light-brown:#fff1e1;
+}
+body{
+    font-family: var(--ff-primary);
+    font-weight:900;
+    background-color: var(--clr-light-brown);
+    font-size: 20px;
+}
+h1{
+    color: var(--clr-dark-blue);
+}
+div{
+    border: 1px solid var(--clr-dark-blue);
+    color: var(--clr-dark-orange);
+    width: 400px;
+    height: fit-content;
+    margin-left: 40%;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    padding: 10px;
+}
+.list-places ul{
+    transform: translateX(-40px);
+}
+.list-games ol{
+    transform: translateX(-40px);
+}

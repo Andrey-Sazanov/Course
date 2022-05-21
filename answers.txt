@@ -1,0 +1,30 @@
+1.What do HTML and CSS stand for? HTML is Hypertext Markup Language and CSS is Cascading Style Sheets 
+2. Would you rather use HTML or CSS, for putting paragraphs of text on a webpage? HTML
+3. Would you rather use HTML or CSS, to change the font and background color of a 
+button? CSS
+4. What is an HTML tag? html tag is a thing that allows u to put something on ur website page
+5. What are the three parts of an HTML element? (image from paragraph)
+6. What is the purpose of the doctype declaration? allows browser to understand what version of html is used 
+7. What is the HTML element? Everything that's on the web-site page
+8. What is the purpose of the head element? to put there different links such as link to css or link to google fonts
+9. What is the purpose of the body element? to present everything waht's on web-page to user 
+10. How do you create a paragraph in HTML? <p></p>
+11. How do you create a heading in HTML?<h1></h1>    
+12. How many different levels of headings are there and what is the difference between
+them? 4
+13. What element should you use to make text bold and important? h1
+14. What element should you use to make text italicized to add emphasis to it? i tag  
+15. What relationship does an element have with any nested elements within it? parent and child 
+16. What relationship do two elements have if they are at the same level of nesting?
+17. How do you create HTML comments? <!--  -->
+18. What HTML tag is used to create an unordered list?  ul
+19. What HTML tag is used to create an ordered list? ol
+20. What HTML tag is used to create list items within both unordered and ordered lists? li
+21. What element is used to create a link? a
+22. What is an attribute? a source
+23. What attribute tells links where to go? 
+24. What is the difference between an absolute and relative link?
+25. Which element is used to display an image? img
+26. What two attributes do images always need to have? source and width
+27. How do you access a parent directory in a file path? ./
+28. What are the four main image formats that you can use for images on the web? 
